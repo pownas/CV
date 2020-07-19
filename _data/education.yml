@@ -1,14 +1,14 @@
 # Degree
-- degree: Systemvetenskapliga programmet, 180 hp
-  uni: Handelshögskolan vid Örebro Universitet
-  year: 2019 &mdash; Nuvarande (klar 2022)
-  award: Kommer förhoppningsvis klara av detta
+- degree: "Systemvetenskapliga programmet, 180 hp"
+  uni: "Handelshögskolan vid Örebro Universitet"
+  year: "2019 &mdash; Nuvarande (klar 2022)"
+  award: "Kommer förhoppningsvis klara av detta"
   #awards:
-  #  - award: Summa Cumme Laude graduate
-  summary: Läster just nu en 3årig utbildning på högskola för att få ordentliga kunskaper inom hur kod bör skapas. Olika språk vi kodat i under utbildningen är: Java, SQL, C#, webbdesign (HTML5, CSS, JavaScript och jQuery).
+  #  - award: "Summa Cumme Laude graduate"
+  summary: "Läser just nu en 3årig utbildning på högskola för att få ordentliga kunskaper inom hur kod bör skapas. Olika språk vi kodat i under utbildningen är: Java, SQL, C#, webbdesign (HTML5, CSS, JavaScript och jQuery)."
 
-- degree: Natur och teknik, datavetenskap
-  uni: Tullängsskolans gymnasium
-  year: 2005 &mdash; 2008
-  award: Avklarad utbildning
-  summary: Läste 3år med mycket naturämnen, samt en hel del programmering i form av  ASP-classic med VB, SQL, C, samt webbdesign (HTML, CSS och flash).
+- degree: "Natur och teknik, datavetenskap"
+  uni: "Tullängsskolans gymnasium"
+  year: "2005 &mdash; 2008"
+  award: "Avklarad utbildning"
+  summary: "Läste 3år med mycket naturämnen, samt en hel del programmering i form av  ASP-classic med VB, SQL, C, samt webbdesign (HTML, CSS och flash)."
