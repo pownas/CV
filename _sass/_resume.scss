@@ -39,6 +39,11 @@
     margin: 1rem 0 0;
   }
 
+  .header-full-name {
+    @include sans;
+    text-align: center;
+  }
+
   .header-contact-info {
     @include sans;
     text-align: center;
