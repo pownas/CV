@@ -17,8 +17,8 @@
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
-        <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
-        <h3 class="header-name" itemprop="name">a.k.a. {{ site.resume_full_name }}</h3>
+        <h1 class="header-name" itemprop="name"><a href="https://github.com/pownas">{{ site.resume_name }}</a></h1>
+        <h3 class="header" itemprop="full-name">{{ site.resume_full_name }}</h3>
 
         <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
         {% if site.display_header_contact_info == 'true' %}
