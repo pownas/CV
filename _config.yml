@@ -10,7 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "@Pownas aka Jonas Arvidson"
+resume_name:                    "@Pownas"
+resume_full_name:               "Jonas Arvidson"
 resume_title:                   "Developer"
 
 # used for the contact button in _layouts/resume.html
