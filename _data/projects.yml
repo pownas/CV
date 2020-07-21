@@ -4,7 +4,7 @@
 # arvidsonfoto.se
 - project: ArvidsonFoto.se
   role: Skapare och huvudsaklig utvecklare
-  duration: 2006 &mdash; Nuvarande
+  duration: "2006 &mdash; Nuvarande (ca 300 timmar)"
   url: "https://arvidsonfoto.se/"
   description: En hemsida åt min pappa, som skapats med möjligheter för inloggning och uppladdande av nya bilder.
 
