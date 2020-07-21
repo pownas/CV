@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "@Pownas"
 resume_full_name:               "Jonas Arvidson"
-resume_title:                   "Developer"
+resume_title:                   "Utvecklare"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "pownas@outlook.com"
