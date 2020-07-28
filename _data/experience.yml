@@ -1,18 +1,18 @@
 # Jobs
 # IT ansvarig
-- company: "Dansklubben Rockrullarna"
-  position: "IT-ansvarig"
-  duration:  "Mar, 2019 &mdash; Nuvarande"
-  summary: "Hanterar hela Rockrullarnas IT-miljö i form av Microsoft365 admin och webbmaster, samt ansvarig för dansklubbens digital workplace."
+- company: Dansklubben Rockrullarna
+  position: IT-ansvarig
+  duration:  Mar, 2019 &mdash; Nuvarande
+  summary: Hanterar hela Rockrullarnas IT-miljö i form av Microsoft365 admin och webbmaster, samt ansvarig för dansklubbens digital workplace. 
 
 # Servicedesk agent
-- company: "EVRY"
-  position: "Servicedesk agent"
-  duration:   "Sept, 2011  &mdash; Aug, 2019"
-  summary: "Varit med och startat upp en större kunds Servicedesk samt jobbat med support under ca 8 års tid. Mot slutet skrev jag även flertalet powershell script som underlättade vardagen på servicedesk."
+- company: EVRY
+  position: Servicedesk agent
+  duration:   Sept, 2011  &mdash; Aug, 2019
+  summary: Varit med och startat upp en större kunds Servicedesk samt jobbat med support under ca 8 års tid. Mot slutet skrev jag även flertalet powershell script som underlättade vardagen på servicedesk.
 
 # Webmaster
-- company: "www.ArvidsonFoto.se"
-  position: "Webmaster och IT-ansvarig"
-  duration: "Okt, 2006 &mdash; Nuvarande"
-  summary: "Skapat och skrivit all kod på hemsidan till min pappa (<a href=""https://arvidsonfoto.se/"">arvidsonfoto.se</a>). Även ansvarig för hans IT-miljö och support."
+- company: www.ArvidsonFoto.se
+  position: Webmaster och IT-ansvarig
+  duration: Okt, 2006 &mdash; Nuvarande
+  summary: Skapat och skrivit all kod på hemsidan till min pappa (<a href="https://arvidsonfoto.se/">arvidsonfoto.se</a>). Även ansvarig för hans IT-miljö och support. 
