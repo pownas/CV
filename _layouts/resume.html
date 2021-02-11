@@ -252,11 +252,8 @@
       <footer class="page-footer">
         <p class="footer-line">
           Skapad med ❤ av <a href="http://twitter.com/pownas">@pownas</a>. Forka min svenska CV-mall via: 
-          {% if site.resume_print_social_links %} 
-          GitHub (https://github.com/pownas/resume-swedish-template)
-          {% else %}
-          <a href="https://github.com/pownas/resume-swedish-template">GitHub</a>.
-          {% endif %}
+          <span class="print-only">GitHub (<a>https://github.com/pownas/resume-swedish-template</a>)</span>
+          <a href="https://github.com/pownas/resume-swedish-template" class="no-print">GitHub</a>.
         </p>
         <p class="footer-line">Hoppas vi hörs vidare.</p>
       </footer>
