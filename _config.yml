@@ -55,8 +55,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:            "https://www.linkedin.com/in/JonasArvidson"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_youtube_url:             "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
-  resume_youtube_channel_name:    "Pownas lär dig"
+  ## resume_youtube_url:             "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
+  ## resume_youtube_channel_name:    "Pownas lär dig"
   resume_website_url:             "https://jonas.arvidsonfoto.se"
   # resume_medium_url:            "https://medium.com/@username"
 resume_print_social_links:        true
