@@ -49,16 +49,17 @@ resume_section_interests:       true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/pownas"
-  resume_twitter_url:           "https://twitter.com/pownas"
+  resume_github_url:              "https://github.com/pownas"
+  resume_twitter_url:             "https://twitter.com/pownas"
   # resume_dribbble_url:          "insert Dribbble URL here"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/JonasArvidson"
+  resume_linkedin_url:            "https://www.linkedin.com/in/JonasArvidson"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_youtube_url:           "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
-  resume_website_url:           "https://jonas.arvidsonfoto.se"
+  resume_youtube_url:             "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
+  resume_youtube_channel_name:    "Pownas lär dig"
+  resume_website_url:             "https://jonas.arvidsonfoto.se"
   # resume_medium_url:            "https://medium.com/@username"
-resume_print_social_links:      true
+resume_print_social_links:        true
 
 # Design settings
 resume_theme:                   default
