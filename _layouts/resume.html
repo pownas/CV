@@ -232,7 +232,7 @@
         <div class="resume-item print-only">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a> <a href="{{ link.url }}" class="print-only">({{ link.url }})</a></li>
+            <li>{{ link.description }} (<a href="{{ link.url }}" itemprop="url">{{ link.url }}</a>)</li>
             {% endfor %}
           </ul>
         </div>
