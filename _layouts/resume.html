@@ -224,7 +224,10 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a><span class="print-only"> ({{ link.url }})</span></li>
+            <li>
+              <a href={{ link.url }} itemprop="url">{{ link.description }}</a>
+              <span class="print-only"> ({{ link.url }})</span>
+            </li>
             {% endfor %}
           </ul>
         </div>
@@ -255,7 +258,11 @@
           <span class="print-only">GitHub (<a>https://github.com/pownas/resume-swedish-template</a>)</span>
           <a href="https://github.com/pownas/resume-swedish-template" class="no-print">GitHub</a>.
         </p>
-        <p class="footer-line"><a href="#" class="no-print" onclick="window.print();return false;">Skriv ut mitt CV</a><span class="print-only">CV utskrivet ifrån: <a href="https://pownas.github.io/CV">https://pownas.github.io/CV</a></span> | Hoppas vi hörs vidare.</p>
+        <p class="footer-line">
+          <a href="#" class="no-print" onclick="window.print();return false;">Skriv ut mitt CV</a>
+          <span class="print-only">CV utskrivet ifrån: <a href="https://pownas.github.io/CV">https://pownas.github.io/CV</a></span>
+           | Hoppas vi hörs vidare.
+        </p>
       </footer>
 
     </div>
