@@ -221,12 +221,18 @@
           <h2>Övriga länkar</h2>
         </header>
 
-        <div class="resume-item">
+        <div class="resume-item no-print">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <li>
-              <a href={{ link.url }} itemprop="url">{{ link.description }}</a> <a href="{{ link.url }}" class="print-only">({{ link.url }})</a>
-            </li>
+            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- Visar även URL vid utskrift: -->
+        <div class="resume-item print-only">
+          <ul class="resume-item-list">
+            {% for link in site.data.links %}
+            <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a> <a href="{{ link.url }}" class="print-only">({{ link.url }})</a></li>
             {% endfor %}
           </ul>
         </div>
