@@ -52,6 +52,10 @@
     color: inherit;
   }
 
+  .center-content {
+    text-align: center;
+  }
+
   .title-bar {
     @include section_border;
     margin-top: 2rem;

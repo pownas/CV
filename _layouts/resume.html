@@ -27,10 +27,6 @@
         </div>
         {% endif %}
 
-        <div class="footer-line no-print">
-          <a href="#print" onclick="window.print();return false;">🖨 Skriv ut mitt CV</a>
-        </div>
-
         <div class="title-bar no-print">
 
           <!-- Your title is also defined in the _config.yml file -->
@@ -45,13 +41,14 @@
             {{ site.resume_header_intro }}
           </p>
 
-          <div class="no-print">
+          <div class="center-content no-print">
             {% if site.resume_looking_for_work == 'yes' %}
             <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Kontakta gärna mig gällande jobb</a>
             {% elsif site.resume_looking_for_work == 'no' %}
             <a class="contact-button not-looking">Just nu,<br /> söker jag inte jobb.</a>
             {% else %}
             {% endif %}
+            <a href="#print" onclick="window.print();return false;">🖨 Skriv ut mitt CV</a>
           </div>
         </div>
 
