@@ -27,6 +27,10 @@
         </div>
         {% endif %}
 
+        <div class="footer-line no-print">
+          <a href="#print" onclick="window.print();return false;">🖨 Skriv ut mitt CV</a>
+        </div>
+
         <div class="title-bar no-print">
 
           <!-- Your title is also defined in the _config.yml file -->
@@ -38,15 +42,14 @@
 
         <div class="executive-summary" itemprop="description">
           <p>
-            {{ site.resume_header_intro }} 
-            <a href="#" class="no-print" onclick="window.print();return false;">🖨 Skriv gärna ut mitt CV</a>.
+            {{ site.resume_header_intro }}
           </p>
 
-          <div>
+          <div class="no-print">
             {% if site.resume_looking_for_work == 'yes' %}
-            <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Kontakta gärna mig gällande jobb</a>
+            <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Kontakta gärna mig gällande jobb</a>
             {% elsif site.resume_looking_for_work == 'no' %}
-            <a class="contact-button not-looking no-print">Just nu,<br /> söker jag inte jobb.</a>
+            <a class="contact-button not-looking">Just nu,<br /> söker jag inte jobb.</a>
             {% else %}
             {% endif %}
           </div>
@@ -108,7 +111,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projekt</h2>
+          <h2>Utvalda utvecklingsprojekt</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -276,7 +279,7 @@
           <span class="print-only">GitHub (<a>https://github.com/pownas/resume-swedish-template</a>)</span>
           <a href="https://github.com/pownas/resume-swedish-template" class="no-print">GitHub</a>.
         </p>
-        <p class="footer-line no-print"><a href="#" onclick="window.print();return false;">Skriv ut mitt CV</a> | Hoppas vi hörs vidare.</p>
+        <p class="footer-line no-print"><a href="#print" onclick="window.print();return false;">🖨 Skriv ut mitt CV</a> | Hoppas vi hörs vidare.</p>
         <p class="footer-line print-only">CV utskrivet ifrån: <a href="https://pownas.github.io/CV">https://pownas.github.io/CV</a> | Hoppas vi hörs vidare.</p>
       </footer>
 
