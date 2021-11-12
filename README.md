@@ -3,4 +3,4 @@ En enkel sida som sammanfattar mitt CV i en resumé som andra kan läsa på nät
 
 
 Stort tack till @jglovier!
-Som hjälpt mig med denna Resume. 
+Som hjälpt mig med denna Resume-sidan. 
