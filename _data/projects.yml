@@ -14,3 +14,9 @@
   duration: "2008 &mdash; Nuvarande"
   url: "https://jonas.arvidsonfoto.se/"
   description: "Min egna hemsida som alltid behöver ett ansiktslyft... Det går alltid att göra saker bättre som utvecklare. :P" 
+
+- project: "GitHub-Projekt portfölj"
+  role: ""
+  duration: ""
+  url: "https://github.com/pownas/ProjectsPortfolio"
+  description: "En lista över mina GitHub-projekt och bilder ifrån de systemen."
