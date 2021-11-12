@@ -12,6 +12,11 @@
   <li><strong>Twitter</strong>: {{ site.resume_social_links.resume_twitter_url }}</li>
   {% endif %}
 
+  <!-- Youtube link -->
+  {% if site.resume_social_links.resume_youtube_url %}
+  <li><strong>YouTube-kanal</strong>: {{ site.resume_social_links.resume_youtube_channel_name }} ({{ site.resume_social_links.resume_youtube_url }})</li>
+  {% endif %}
+
   <!-- Dribbble link -->
   {% if site.resume_social_links.resume_dribbble_url %}
   <li><strong>Dribbble</strong>: {{ site.resume_social_links.resume_dribbble_url }}</li>
@@ -34,7 +39,7 @@
 
   <!-- Website link -->
   {% if site.resume_social_links.resume_website_url %}
-  <li><strong>Website</strong>: {{ site.resume_social_links.resume_website_url }}</li>
+  <li><strong>Webbsida</strong>: {{ site.resume_social_links.resume_website_url }}</li>
   {% endif %}
 
 </ul>
