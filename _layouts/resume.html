@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="foto av mig" class="avatar" itemprop="image">
+        <img src="images/avatar.jpg" alt="foto av mig, {{ site.resume_full_name }}" class="avatar" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -36,12 +36,12 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary" itemprop="description">
+        <div class="executive-summary center-content" itemprop="description">
           <p>
             {{ site.resume_header_intro }}
           </p>
 
-          <div class="center-content no-print">
+          <div class="no-print">
             {% if site.resume_looking_for_work == 'yes' %}
             <a href="mailto:{{ site.resume_contact_email }}" class="contact-button" itemprop="email">Kontakta gärna mig gällande jobb</a>
             {% elsif site.resume_looking_for_work == 'no' %}
