@@ -187,7 +187,17 @@
           <h2>Andra intressen</h2>
         </header>
 
-        <div class="resume-item">
+        <!-- Shows a vertical view on the web -->
+        <div class="resume-item no-print">
+          <ul class="resume-item-list no-list-bullets">
+            {% for interest in site.data.interests %}
+            <li>{{ interest.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <!-- Prints a horizontal view -->
+        <div class="resume-item print-only">
           <ul class="resume-item-list-horizontal">
             {% for interest in site.data.interests %}
             <li>{{ interest.description }}</li>
