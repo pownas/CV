@@ -2,14 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # arvidsonfoto.se
-- project: "ArvidsonFoto.se (fotograf-sida)"
+- project: "ArvidsonFoto.se"
   role: "Skapare och huvudsaklig utvecklare"
   duration: "2006 &mdash; Nuvarande (ca 300 timmar)"
   url: "https://arvidsonfoto.se/"
-  description: "En hemsida åt min pappa, som skapats med möjligheter för inloggning och uppladdande av nya bilder."
+  description: "En hemsida åt pappa som är fotograf, som skapats med möjligheter för inloggning och uppladdande av nya bilder."
 
 # Jonas.ArvidsonFoto.se
-- project: "Jonas.ArvidsonFoto.se (min hemsida)"
+- project: "Jonas.ArvidsonFoto.se"
   role: "Utvecklare & webbdesigner"
   duration: "2008 &mdash; Nuvarande"
   url: "https://jonas.arvidsonfoto.se/"
