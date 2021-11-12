@@ -37,16 +37,19 @@
         </div>
 
         <div class="executive-summary" itemprop="description">
-          {{ site.resume_header_intro }}
+          <p>
+            {{ site.resume_header_intro }} 
+            <a href="#" class="no-print" onclick="window.print();return false;">🖨 Skriv gärna ut mitt CV</a>.
+          </p>
 
-        <div>
-          {% if site.resume_looking_for_work == 'yes' %}
-          <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Kontakta gärna mig gällande jobb</a>
-          {% elsif site.resume_looking_for_work == 'no' %}
-          <a class="contact-button not-looking no-print">Just nu,<br /> söker jag inte jobb.</a>
-          {% else %}
-          {% endif %}
-        </div>
+          <div>
+            {% if site.resume_looking_for_work == 'yes' %}
+            <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Kontakta gärna mig gällande jobb</a>
+            {% elsif site.resume_looking_for_work == 'no' %}
+            <a class="contact-button not-looking no-print">Just nu,<br /> söker jag inte jobb.</a>
+            {% else %}
+            {% endif %}
+          </div>
         </div>
 
       </header>

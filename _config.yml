@@ -1,6 +1,6 @@
 # Site settings
 title: "Pownas a.k.a. Jonas Arvidsons CV"
-description: "Mitt CV för mina (pownas) kod-projekt (GitHub) och IT-erfarenheter."
+description: "Mitt (@pownas) CV för mina arbetslivserfarenheter och sociala sidor."
 
 # Build settings
 markdown: kramdown
@@ -25,7 +25,7 @@ resume_header_contact_info:     "Örebro, Sweden • +46 (0)73-506 65 98 • pow
 display_header_contact_info:    "true"
 
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
-resume_header_intro: "<p>Mitt CV med mina kod-projekt (på GitHub) och IT-erfarenheter. </p>"
+resume_header_intro: "Mitt CV för mina arbetslivserfarenheter och sociala sidor. Hoppas vi får arbeta tillsammans framöver!"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -55,8 +55,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:            "https://www.linkedin.com/in/JonasArvidson"
   # resume_instagram_url:         "insert your Instagram URL here"
-  ## resume_youtube_url:             "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
-  ## resume_youtube_channel_name:    "Pownas lär dig"
+  resume_youtube_url:             "https://www.youtube.com/channel/UCHbDLlJEZ_PRJADbNZiR_2A"
+  resume_youtube_channel_name:    "Pownas lär dig"
   resume_website_url:             "https://jonas.arvidsonfoto.se"
   # resume_medium_url:            "https://medium.com/@username"
 resume_print_social_links:        true
