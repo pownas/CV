@@ -1,21 +1,29 @@
 # Jobs
-# IT ansvarig
+
+# Transportstyrelsen
+- company: Transportstyrelsen
+  position: Traineeprogram inom informationssäkerhet
+  duration: Sept, 2022 &mdash; Nuvarande
+  summary: "Har fått arbeta med IT- och informationssäkerheten hos Transportstyrelsen."
+
+# AFRY SUPen
 - company: AFRY
   position: Student Internship
-  duration: Jan, 2022 &mdash; Nuvarande
+  duration: Jan, 2022 &mdash; Maj, 2022
   summary: "Genomför mitt Systemutvecklingsprojekt hos AFRY, där vi bygger om en mötes-applikation från grunden och jag är med i teamet som bygger backend Web API:t i ASP.NET6."
+
+# Systembolaget butiksmedarbetare
+- company: Systembolaget
+  position: Butiksmedarbetare
+  duration: Maj, 2020 &mdash; Sept, 2020 & Maj, 2021 &mdash; April, 2022
+  summary: "Jag har varit sommarjobbare i Nora (2020), samt sommarjobb och extrajobb vid Marieberg (2021). På bolaget har jag gjort allt ifrån att städa butiken, plocka upp varor, varit kassavärd och butiksvärd där jag gett flertalet rekommendationer till kunderna."
+
 
 # IT ansvarig
 - company: Dansklubben Rockrullarna
   position: IT-ansvarig
   duration: Mars, 2019 &mdash; Nuvarande
   summary: "Hanterar hela Rockrullarnas IT-miljö vilken jag själv har satt upp i en Microsoft365 lösning. Är även webbadministratör för externa webbsidan, samt ansvarig för dansklubbens digital workplace."
-
-# Systembolaget butiksmedarbetare
-- company: Systembolaget
-  position: Butiksmedarbetare
-  duration: Maj, 2020 &mdash; Sept, 2020 & Maj, 2021 &mdash; Nuvarande
-  summary: "Jag har varit sommarjobbare i Nora (2020), samt sommarjobb och extrajobb vid Marieberg (2021). På bolaget har jag gjort allt ifrån att städa butiken, plocka upp varor, varit kassavärd och butiksvärd där jag gett flertalet rekommendationer till kunderna."
 
 # Servicedesk agent
 - company: EVRY
