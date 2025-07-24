@@ -16,7 +16,7 @@
 - company: AFRY
   position: Student Internship
   duration: Jan, 2022 &mdash; Maj, 2022
-  summary: "Genomför mitt Systemutvecklingsprojekt hos AFRY, där vi bygger om en mötes-applikation från grunden och jag är med i teamet som bygger backend Web API:t i ASP.NET6."
+  summary: "Genomför mitt Systemutvecklingsprojekt hos AFRY, där vi bygger om en mötes-applikation från grunden och mitt team byggde en React front-end och ett back-end WebAPI i ASP.NET6."
 
 # Systembolaget butiksmedarbetare
 - company: Systembolaget
@@ -32,7 +32,7 @@
   summary: "Hanterar hela Rockrullarnas IT-miljö vilken jag själv har satt upp i en Microsoft365 lösning. Är även webbadministratör för externa webbsidan, samt ansvarig för dansklubbens digital workplace."
 
 # Servicedesk agent
-- company: EVRY
+- company: EVRY (senare: TietoEVRY)
   position: Servicedesk agent
   duration: Sept, 2011  &mdash; Aug, 2019
   summary: "Varit med och startat upp ett par större kunders Servicedesk samt jobbat med företagssupport under ca 8 års tid. Jag har byggt upp 3st stora kundskapsdatabaser, samt skapat tusentals kunskapsartiklar under åren, så att Servicedeskens och kundernas arbete ska fungera så enkelt som möjligt. De senare åren skrev jag även flertalet powershell script som underlättade vardagen på servicedesk."
