@@ -4,19 +4,19 @@
 - company: Transportstyrelsen
   position: Systemutvecklare
   duration: Nov, 2023 &mdash; Nuvarande
-  summary: "Jobbar numera som utvecklare där jag dagligen skriver C# kod för våra backend api:er och frontend lösningar."
+  summary: "Utvecklare som dagligen skriver C# kod för våra backend api:er och frontend lösningar. Utvecklar och hanterar även delar av våra asynkrona meddelande-köer."
 
 # Transportstyrelsen IT-säk
 - company: Transportstyrelsen
   position: Traineeprogram inom informationssäkerhet
   duration: Sept, 2022 &mdash; Nov, 2023
-  summary: "Har fått arbeta med IT- och informationssäkerhet hos Transportstyrelsen, som handläggare inom Ledningskansliet."
+  summary: "Arbetade med IT- och informationssäkerhet, som trainee-handläggare inom Ledningskansliet."
 
 # AFRY SUPen
 - company: AFRY
   position: Student Internship
   duration: Jan, 2022 &mdash; Maj, 2022
-  summary: "Genomför mitt Systemutvecklingsprojekt hos AFRY, där vi bygger om en mötes-applikation från grunden och mitt team byggde en React front-end och ett back-end WebAPI i ASP.NET6."
+  summary: "Genomförde mitt Systemutvecklingsprojekt hos AFRY, där vi bygger om en mötes-applikation från grunden och mitt team byggde en React front-end och ett back-end WebAPI i ASP.NET6."
 
 # Systembolaget butiksmedarbetare
 - company: Systembolaget
@@ -47,5 +47,5 @@
 - company: www.ArvidsonFoto.se
   position: Webmaster och IT-ansvarig
   duration: Okt, 2006 &mdash; Nuvarande
-  summary: Skapat och skrivit all kod på min pappas hemsidan <a href="https://arvidsonfoto.se/">ArvidsonFoto.se</a>. Koden finns i sin helhet som öppen källkod på GitHub (<a href="https://github.com/pownas/ArvidsonFoto-MVC-NET5">GitHub.com/Pownas/ArvidsonFoto-MVC-NET5</a>). Jag är även ansvarig för hans IT-miljö och support.
+  summary: Skapat och skrivit all kod på min pappas hemsidan <a href="https://arvidsonfoto.se/">ArvidsonFoto.se</a>. Koden finns i sin helhet som öppen källkod på GitHub (<a href="https://github.com/pownas/ArvidsonFoto-MVC-NET-web">GitHub.com/Pownas/ArvidsonFoto-MVC-NET-web</a>). Jag är även ansvarig för hans IT-miljö och support.
   
